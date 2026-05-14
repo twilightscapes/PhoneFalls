@@ -1,0 +1,14 @@
+{
+  "title": "Privacy",
+  "slug": "privacy",
+  "description": "Privacy Policy",
+  "showInNav": false,
+  "blocks": [
+    {
+      "type": "text",
+      "heading": "Privacy Policy",
+      "layout": "narrow",
+      "body": "**Privacy Policy for Phone Fall**\n\n_Last updated: May 14, 2026_\n\n**Overview**\nPhone Fall (\"the app\") is designed to detect when your phone is dropped. Your privacy is important to us. This policy explains what data the app uses and how it is handled.\n\n**Data We Collect**\nThe app does not collect, transmit, or share any personal data. All data stays on your device.\n\n**Motion & Sensor Data**\nThe app uses your device's accelerometer to detect drop events. This data is processed entirely on-device and is never transmitted to any server or third party.\n\n**Fall History**\nRecords of detected drop events (time, intensity) are stored locally on your device using Apple's on-device storage. This data never leaves your device.\n\n**In-App Purchases**\nPurchases are processed entirely by Apple through the App Store. The app does not handle or store any payment information.\n\n**Third-Party Services**\nThe app does not use any analytics, advertising, or third-party SDKs.\n\n**Children's Privacy**\nThe app does not knowingly collect data from anyone, including children.\n\n**Contact**\nQuestions? Contact us at: [https://github.com/twilightscapes/PhoneFall](vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/code/electron-browser/workbench/workbench.html)"
+    }
+  ]
+}
