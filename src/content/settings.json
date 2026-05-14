@@ -1,26 +1,26 @@
 {
-  "github": "twilightscapes",
-  "camera": "PhoneFall",
-  "bio": "PhoneFall",
+  "enableSocial": false,
+  "navStyle": "float",
   "showDates": true,
-  "mastodon": "",
+  "title": "PhoneFall",
+  "description": "A photography site on the Pirate Social network",
   "author": "PhoneFall",
+  "bio": "PhoneFall",
+  "avatar": "/images/avatar.jpg",
+  "location": "USA",
+  "camera": "PhoneFall",
   "logo": {
     "type": "text",
     "image": "",
     "text": ""
   },
-  "enableSocial": true,
-  "navStyle": "float",
-  "instagram": "",
-  "location": "USA",
-  "title": "PhoneFall",
-  "avatar": "/images/avatar.jpg",
-  "description": "A photography site on the Pirate Social network",
   "cloudinary": {
     "enabled": false,
     "cloudName": "",
     "apiKey": ""
   },
-  "giphyKey": ""
+  "giphyKey": "",
+  "github": "twilightscapes",
+  "instagram": "",
+  "mastodon": ""
 }
