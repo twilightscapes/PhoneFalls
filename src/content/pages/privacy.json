@@ -2,7 +2,7 @@
   "title": "Privacy",
   "slug": "privacy",
   "description": "Privacy Policy",
-  "showInNav": false,
+  "showInNav": true,
   "blocks": [
     {
       "type": "text",
