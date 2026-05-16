@@ -12,6 +12,21 @@
       "overlay": true,
       "height": "large",
       "links": []
+    },
+    {
+      "type": "cta",
+      "heading": "Download on the App Store",
+      "links": [
+        {
+          "label": "Download Now!",
+          "url": "https://apps.apple.com/us/app/phonefall/id6769219032#information",
+          "style": "primary",
+          "openInNewTab": false
+        }
+      ],
+      "layout": "narrow",
+      "description": "",
+      "align": "center"
     }
   ]
 }
